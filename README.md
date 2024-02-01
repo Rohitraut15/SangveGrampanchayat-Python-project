@@ -1,4 +1,4 @@
-# online fire reporting system 
+# Online Fire Reporting System 
  Note : contact me for the database issue
 
  Python django webbased application for managing the problems related to water supply fire problem or other in Sangve Grampanchayat.This project made as Python project in 2nd semester 
@@ -19,7 +19,7 @@
         - [Admin Login](#admin-login)
         - [Admin Dashboard ](#admin-dashboard)
         - [Add Team](#add-team)
-        - [Manage Team](#manage-team))
+        - [Manage Team](#manage-team)
         - [All Request ](#all-request)
         - [Date Report](#date-report)
         - [Search](#search)
