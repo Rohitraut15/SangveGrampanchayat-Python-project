@@ -39,9 +39,9 @@
 
  ### Using Pycharm Community editon 2023 <a name='using-Pycharm-Community-edition-2023'></a>
 <pre>
-1. Create a new <del>Project</del> Website in Pycharm  
+1. Create a new Project  in Pycharm  
 2. Fork this repo  
-3. Copy all the files in this repo to website's folder  
+3. Copy all the files in this repo to project's folder  
 4. Configure Database on the machine accordingly (Using db.sqlite3 file checked in)
-5. Run the website  
+5. Run the project using python manage.py runserver command on the terminal 
 </pre>
