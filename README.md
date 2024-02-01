@@ -25,3 +25,13 @@
         - [Search](#search)
 - [Contributers](#contributers)
 - [Links](#links)
+
+  ## Installation <a name='installation'></a>
+
+  ### Prerequisites <a name='prerequisites'></a>
+
+1. Pycharm 2022 or above 
+2. SQLlite Server
+3. Django Framework 
+4. python Interpreter 
+4. Web Browser
