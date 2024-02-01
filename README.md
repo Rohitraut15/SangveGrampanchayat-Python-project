@@ -5,5 +5,5 @@
 
 ![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/bae55f0c-0a97-4624-b73f-2fd1654139c8)
 ## [Table of content] 
-    +Installation
-         -Prerequisites
+    Installation
+        Prerequisites
