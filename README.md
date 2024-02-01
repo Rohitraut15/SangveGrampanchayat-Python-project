@@ -60,3 +60,13 @@
 
 ### Add Report <a name='add-report'></a>
 This feature manage the user to report their problems  on to the website  and manage by <code>admin</code>through login
+![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/e609efc6-8f20-4927-9050-f7978ddb3d1d)
+
+
+### View Status <a name='view-status'></a>
+This feature contains status of our apply report through our register mobile number 
+![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/20681ab3-e785-478c-91cf-c5decc5991f6)
+
+###
+
+
