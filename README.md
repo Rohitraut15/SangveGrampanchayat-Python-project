@@ -65,8 +65,17 @@ This feature manage the user to report their problems  on to the website  and ma
 
 ### View Status <a name='view-status'></a>
 This feature contains status of our apply report through our register mobile number 
-![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/20681ab3-e785-478c-91cf-c5decc5991f6)
+![alt tag][image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/20681ab3-e785-478c-91cf-c5decc5991f6)
 
-###
+
+
+> ADMIN <a name='admin'></a>
+
+### Admin Panel <a name=''></a>
+Go to admin panel through admin login by simply typing username and password we can create username and password by typing <code>python manage.py createsuperuser</code> this cmd in the terminal
+![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/1b4fba7e-b43f-438b-b61d-2ff257823f2a)
+
+
+
 
 
