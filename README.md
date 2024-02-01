@@ -23,6 +23,7 @@
         - [All Request ](#all-request)
         - [Date Report](#date-report)
         - [Search](#search)
+        - [Change Password](#change-password)
 - [Author](#author)
 
 
@@ -100,6 +101,11 @@ Date report is basically how many days need to complete that task or that proble
 ### Search <a name='search'></a>
 Admin search a request by an mobile number or location 
 ![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/bd67d354-d028-4acd-8b5f-b98eca8f887a)
+
+### Change Password <a name='change-password'></a>
+Admin can change the password whenever he wants to change .
+![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/e6c85e4f-f9ab-4bf9-a3ad-f94341b95ae0)
+
 
 ## Autor  <a name='author '></a>
    Rohit  Raut 
