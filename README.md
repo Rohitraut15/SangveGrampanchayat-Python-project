@@ -45,3 +45,18 @@
 4. Configure Database on the machine accordingly (Using db.sqlite3 file checked in)
 5. Run the project using python manage.py runserver command on the terminal 
 </pre>
+
+### Technologies Used <a name='technologies-used'></a>
+
+1.Python
+2.javascript 
+3.CSS
+4.SQL
+
+
+## Features <a name='features'></a>
+
+> USERS <a name='users'></a>
+
+### Add Report <a name='add-report'></a>
+This feature manage the user to report their problems  on to the website  and manage by <code>admin</code>through login
