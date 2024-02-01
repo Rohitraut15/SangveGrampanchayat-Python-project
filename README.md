@@ -23,8 +23,8 @@
         - [All Request ](#all-request)
         - [Date Report](#date-report)
         - [Search](#search)
-- [Contributers](#contributers)
-- [Links](#links)
+- [Author](#author)
+
 
   ## Installation <a name='installation'></a>
 
@@ -65,15 +65,46 @@ This feature manage the user to report their problems  on to the website  and ma
 
 ### View Status <a name='view-status'></a>
 This feature contains status of our apply report through our register mobile number 
-![alt tag][image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/20681ab3-e785-478c-91cf-c5decc5991f6)
+![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/20681ab3-e785-478c-91cf-c5decc5991f6)
 
 
 
 > ADMIN <a name='admin'></a>
 
 ### Admin Panel <a name=''></a>
+
+### Admin Login <a name='admin-login'></a>
 Go to admin panel through admin login by simply typing username and password we can create username and password by typing <code>python manage.py createsuperuser</code> this cmd in the terminal
 ![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/1b4fba7e-b43f-438b-b61d-2ff257823f2a)
+
+### Admin Dashboard <a name='admin-dashboard'></a>
+Admin dashboard contains all the details of our report system and work accordingly 
+![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/a8deb429-cf6a-46b7-b554-d882d656d25f)
+
+### Add Team <a name='add-team'></a>
+Admin is the person who is responsible for add team for different different work according to the work allocated through the user 
+![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/da016b89-f1ea-403c-805f-894fcc1ecd69)
+
+### Manage team <a name='manage-team'></a>
+Admin can manage the team such as adding a new member in the team or update the number of existing team member also admin is resposible to delete the team 
+![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/a2b73648-3a95-469f-b493-820f2587b0ac)
+
+### All Request <a name='all-request'></a>
+all request features shows all request that made by user there is also other modules like new request,assign request,team on the way etc.
+![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/26adaff6-e03b-43ef-af79-243884bb3664)
+
+### Date Report <a name='date-report'></a>
+Date report is basically how many days need to complete that task or that problem it shows from date to to date 
+![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/d4ad37c5-1670-45f0-94d0-04408a332bfc)
+
+### Search <a name='search'></a>
+Admin search a request by an mobile number or location 
+![image](https://github.com/Rohitraut15/SangveGrampanchayat-Python-project/assets/136091024/bd67d354-d028-4acd-8b5f-b98eca8f887a)
+
+## Autor  <a name='author '></a>
+   Rohit  Raut 
+   Contact : <rohitraut8071@gmail.com>
+
 
 
 
