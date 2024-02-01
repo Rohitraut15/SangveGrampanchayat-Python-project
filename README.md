@@ -50,8 +50,11 @@
 ### Technologies Used <a name='technologies-used'></a>
 
 1.Python
-2.javascript 
+
+2.javascript
+
 3.CSS
+
 4.SQL
 
 
